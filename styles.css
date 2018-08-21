@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+    padding-left: 35px;
+    padding-top: 20px;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.friend {
+    background-color: rgba(132, 144, 151, 0.6);
+    color: white;
+    padding-left: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.friend h3 {
+    text-transform: uppercase;
+    font-size: 1.5rem 
+}
+
+#singBtn {
+    background-color: darkblue; 
+    margin: 0px
+}
